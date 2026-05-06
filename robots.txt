@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codewithayobami.github.io/readme-uvr5hx/sitemap.xml
